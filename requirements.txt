@@ -1,0 +1,6 @@
+sqlite3-to-mysql
+psycopg2
+pandas
+sqlalchemy
+pyodbc
+pymssql
